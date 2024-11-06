@@ -33,7 +33,7 @@ const App = () => {
     <div className="min-h-screen  border-2 border-gray-400 rounded-lg bg-purple-900 p-4">
       <div className="max-w-3xl mx-auto">
         <div className="text-center mt-7 p-4">
-          
+          <h1 className=' text-center text-3xl text-white font-bold pb-7'> LonShoreMan Weather App</h1>
           <input
             type="text"
             className="py-3 px-6 w-full max-w-[700px] text-lg rounded-3xl border-gray-200 text-gray-700 placeholder:text-gray-400 focus:outline-none border-b-2 bg-slate-100 shadow-md"
